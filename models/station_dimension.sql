@@ -2,7 +2,7 @@
 
 WITH BIKE as (
 
-select
+select  
 distinct
 START_STATIO_ID as station_id,
 start_station_name as station_name,
